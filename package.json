@@ -1,6 +1,6 @@
 {
   "name": "az-cli",
-  "version": "v1.0.2",
+  "version": "1.0.3",
   "description": "az-cli, cli, az",
   "main": "index.js",
   "scripts": {
@@ -34,7 +34,6 @@
     "download-git-repo": "^3.0.2",
     "figlet": "^1.5.2",
     "inquirer": "^8.2.0",
-    "ncp": "^2.0.0",
     "ora": "^5.4.1"
   }
 }
